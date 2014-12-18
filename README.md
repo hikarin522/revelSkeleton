@@ -1,6 +1,18 @@
 revelSkeleton
 ============
 
+## Update [Revel Framework](http://revel.github.io) skeleton
+
+### default skeleton
+- Bootstrap v2.1.1
+- jQuery v1.9.1
+
+### this skeleton
+- Bootstrap v3.3.1
+- jQuery v2.1.1
+
+
+## Usage
 ```
 $ go get github.com/revel/revel
 $ go get github.com/revel/cmd/revel
