@@ -21,4 +21,7 @@ $ go get -d github.com/s-nlf-fh/revelSkeleton
 $ cd [GOPATH]/src/github.com
 $ mv revel/revel/skeleton revel/revel/skeleton_old
 $ cp -r s-nlf-fh/revelSkeleton/skeleton revel/revel/
+
+$ cd [GOPATH]/src
+$ revel new myapp
 ```
